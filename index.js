@@ -1,1 +1,1 @@
-console("troche smiecia");
+console.log("troche smiecia");
